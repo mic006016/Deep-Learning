@@ -1,0 +1,15 @@
+# Dataset
+fashionmnist/
+Cars Dataset/
+flower_photos/
+cars3/
+img-animal/
+wine-data/
+
+# Model files
+*.h5
+*.csv
+
+# Images
+*.jpg
+*.png
